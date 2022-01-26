@@ -6,9 +6,6 @@ from datetime import datetime
 import os
 from array import array
 
-def someFuncToSeeInGit(x):
-        print('X is added just to see the commit in github')
-
 MissingObj = 0
 UnattendedObj = 0
 
