@@ -6,6 +6,7 @@ from datetime import datetime
 import os
 from array import array
 
+# some comment added #
 MissingObj = 0
 UnattendedObj = 0
 
